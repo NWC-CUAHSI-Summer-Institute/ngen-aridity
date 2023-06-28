@@ -8,7 +8,7 @@ https://github.com/NWC-CUAHSI-Summer-Institute/cfe_py
 https://github.com/taddyb/LGAR-Torch
 
 
-# Execusion files 
+# Execusion 
 ## Calibrate CFE
 https://github.com/RY4GIT/calibrate-cfe
 
