@@ -4,9 +4,11 @@
 ## CFE-classic & CFE-ODE
 https://github.com/NWC-CUAHSI-Summer-Institute/cfe_py
 
-## LGAR
-https://github.com/taddyb/LGAR-Torch
+## Differentiable LGAR
+https://github.com/NWC-CUAHSI-Summer-Institute/dpLGAR
 
+## LGAR-C
+https://github.com/NOAA-OWP/LGAR-C/
 
 # Execusion 
 ## Calibrate CFE
