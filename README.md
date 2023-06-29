@@ -5,7 +5,7 @@
 https://github.com/NWC-CUAHSI-Summer-Institute/cfe_py
 
 ## LGAR
-https://github.com/taddyb/LGAR-Torch
+[https://github.com/taddyb/LGAR-Torch](https://github.com/NWC-CUAHSI-Summer-Institute/dpLGAR)
 
 
 # Execusion 
