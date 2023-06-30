@@ -1,5 +1,4 @@
 # Summary
-Main repo that summarized all related repo for the Theme 1 BUCKETEARS, Summer Institute, 2023
 Developing ngen modeling frameworks for improved streamflow prediction in arid area
 
 # Models
