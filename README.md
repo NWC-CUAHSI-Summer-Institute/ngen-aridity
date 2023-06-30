@@ -5,6 +5,9 @@ Developing ngen modeling frameworks for improved streamflow prediction in arid a
 ## CFE-classic & CFE-ODE
 https://github.com/NWC-CUAHSI-Summer-Institute/cfe_py
 
+## Differentiable CFE
+https://github.com/NWC-CUAHSI-Summer-Institute/dCFE
+
 ## Differentiable LGAR
 https://github.com/NWC-CUAHSI-Summer-Institute/dpLGAR
 
