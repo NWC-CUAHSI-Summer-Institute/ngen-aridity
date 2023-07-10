@@ -28,6 +28,6 @@ https://www.hydroshare.org/resource/49de5be814fb4cab9448fdef99bf3a42/data/conten
 - Tadd Bindas (Penn State University, University Park, Pennsylvania, [@taddyb](https://github.com/taddyb))
 - Soelem Aafnan Bhuiyan (George Mason University, Fairfax, Virginia [@soelemaafnan](https://github.com/soelemaafnan))
 - Jeremy Rapp (Michigan State University, East Lansing, Michigan [@rappjer1](https://github.com/rappjer1))
-- Ryoko Araki (San Diego State University & University of California, Santa Barbara [@ry4git](https://github.com/RY4GIT/))
+- Ryoko Araki (San Diego State University & University of California, Santa Barbara, [@ry4git](https://github.com/RY4GIT/))
 - Theme Lead: Dr. Jonathan M. Frame (University of Alabama, [@jmframe](https://github.com/jmframe))
-- Academic Advisors of the students: Hilary McMillan, San Diego State University; Viviana Maggioni, George Mason University; Chaopeng Shen, Penn State University
+- Academic Advisors of the students: Hilary McMillan, San Diego State University; Anthony Kendall, Michigan State University; Viviana Maggioni, George Mason University; Chaopeng Shen, Penn State University
