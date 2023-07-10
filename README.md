@@ -21,7 +21,8 @@ https://github.com/NWC-CUAHSI-Summer-Institute/calibrate-cfe
 # Datasets
 ## Hydrofabric
 https://www.hydroshare.org/resource/49de5be814fb4cab9448fdef99bf3a42/
-
+## Output from models
+https://www.hydroshare.org/resource/49de5be814fb4cab9448fdef99bf3a42/data/contents/CFE/results/
 
 # Authors
 - Tadd Bindas (Penn State University, University Park, Pennsylvania, [@taddyb](https://github.com/taddyb))
