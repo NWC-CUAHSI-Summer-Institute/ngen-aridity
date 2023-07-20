@@ -4,7 +4,7 @@ Developing ngen modeling frameworks for improved streamflow prediction in arid a
 # Models
 ## CFE-classic & CFE-ODE
 https://github.com/NWC-CUAHSI-Summer-Institute/cfe_py  
-- BMI adaptation to ngen in development in the branch called `add-bmi2`.
+- BMI adaptation to ngen in development in the branch called `add-bmi2`. Those who wish to continue the work, please see [this issue](https://github.com/NWC-CUAHSI-Summer-Institute/cfe_py/issues/20) for the details.
 - We raised our issue encountered while development in the NOAA-OWP/ngen repository [(1)](https://github.com/NOAA-OWP/ngen/issues/571) and [(2)](https://github.com/NOAA-OWP/ngen/issues/572). 
 
 ## Differentiable CFE (dCFE)
