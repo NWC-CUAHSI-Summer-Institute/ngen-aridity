@@ -1,15 +1,16 @@
 # Summary
-Developing ngen modeling frameworks for improved streamflow prediction in arid area
+Developing ngen modeling frameworks for improved streamflow prediction in arid area. 
 
 # Models
 ## CFE-classic & CFE-ODE
-https://github.com/NWC-CUAHSI-Summer-Institute/cfe_py
-BMI adaptation to ngen in development in the branch called `add-bmi2`. We raised our issue encountered while development in the NOAA-OWP/ngen repository [(1)](https://github.com/NOAA-OWP/ngen/issues/571) and [(2)](https://github.com/NOAA-OWP/ngen/issues/572). 
+https://github.com/NWC-CUAHSI-Summer-Institute/cfe_py  
+- BMI adaptation to ngen in development in the branch called `add-bmi2`.
+- We raised our issue encountered while development in the NOAA-OWP/ngen repository [(1)](https://github.com/NOAA-OWP/ngen/issues/571) and [(2)](https://github.com/NOAA-OWP/ngen/issues/572). 
 
-## Differentiable CFE
+## Differentiable CFE (dCFE)
 https://github.com/NWC-CUAHSI-Summer-Institute/dCFE
 
-## Differentiable LGAR
+## Differentiable LGAR (dpLGAR)
 https://github.com/NWC-CUAHSI-Summer-Institute/dpLGAR
 
 ## LGAR-C
@@ -20,10 +21,8 @@ https://github.com/NOAA-OWP/LGAR-C/
 https://github.com/NWC-CUAHSI-Summer-Institute/calibrate-cfe
 
 # Datasets
-## Hydrofabric
+## Hydrofabric for CAMELS
 https://www.hydroshare.org/resource/49de5be814fb4cab9448fdef99bf3a42/
-## Output from models
-https://www.hydroshare.org/resource/49de5be814fb4cab9448fdef99bf3a42/data/contents/CFE/results/
 
 # Authors
 - Tadd Bindas (Penn State University, University Park, Pennsylvania, [@taddyb](https://github.com/taddyb))
