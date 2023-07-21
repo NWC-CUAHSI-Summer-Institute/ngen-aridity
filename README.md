@@ -1,6 +1,13 @@
 # Summary
 Developing ngen modeling frameworks for improved streamflow prediction in arid area. 
 
+# Report 
+### Official report
+The main manuscript is in press. Supplementary information to this report is available [here](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/blob/main/Supplemental_Information.md)
+
+### Full version of the report
+To be added
+
 # Models
 ## CFE-classic & CFE-ODE
 https://github.com/NWC-CUAHSI-Summer-Institute/cfe_py  
