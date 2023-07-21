@@ -1,5 +1,3 @@
-![Dist NSE](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/assets/74229990/12098d96-240a-4514-929a-f57d51bfaa16)
-![Dist KGE](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/assets/74229990/7f527fa7-8f8c-480d-8491-149292f7e668)
 ## Tables:
 #### Table S1: Parameter configuration used for CFE calibration
 
@@ -57,6 +55,12 @@ the scheme used to generate CFE parameters from a CAMELS basin
 
 #### Figure S4: A CDF plot showing the NSE percentage distribution through CDF.
 <img width="574" alt="image" src="https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/assets/74229990/b1291581-a422-409e-a0e0-66654db2de44">
+
+#### Figure S5: A Violin+Box plot showing the KGE distribution.
+<img width="574" alt="image" src="https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/assets/74229990/c7794f10-8157-4665-8bc1-74f776d09aaa">
+
+#### Figure S6: A Violin+Box plot showing the NSE distribution.
+<img width="574" alt="image" src="https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/assets/74229990/38577a81-ce40-4a70-ac72-44d9ea6e45f0">
 
 #### Figure S4: A visualization of the gradient chain from CFE-classic
 See the PDF https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/blob/main/CFE_gradient_chain_demo.pdf
