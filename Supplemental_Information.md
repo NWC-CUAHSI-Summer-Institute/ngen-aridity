@@ -29,7 +29,9 @@
 | pH | N/A | Soil layer pH | 
 | Organic Matter | (-) | Percent of organic matter within the soil layer | 
 
-## Figure 1: A flowchart showing the integration of LGAR and the parameter-learning NN
+## Figure 1: 
+##### A flowchart showing the integration of LGAR and the parameter-learning NN
+
 the scheme used to generate lumped catchment soil parameters from n POLARIS sampling points
 <img width="574" alt="image" src="https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/assets/16233925/26fad83b-1a25-4522-8544-cdd09c179d8e">
 
