@@ -62,5 +62,5 @@ the scheme used to generate CFE parameters from a CAMELS basin
 #### Figure S6: A Violin+Box plot showing the NSE distribution.
 <img width="574" alt="image" src="https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/assets/74229990/38577a81-ce40-4a70-ac72-44d9ea6e45f0">
 
-#### Figure S4: A visualization of the gradient chain from CFE-classic
+#### Figure S7: A visualization of the gradient chain from CFE-classic
 See the PDF https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/blob/main/CFE_gradient_chain_demo.pdf
