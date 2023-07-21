@@ -40,18 +40,15 @@
 | mfsno | (-) |  Snowmelt m parmaeter |
 | cwpvt | (-) | Empirical canopy wind parameter | 
 
-## Figure S1: 
-##### A flowchart showing the integration of LGAR and the parameter-learning NN
+## Figures:
+##### Figure S1: A flowchart showing the integration of LGAR and the parameter-learning NN
 
 the scheme used to generate lumped catchment soil parameters from n POLARIS sampling points
 <img width="574" alt="image" src="https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/assets/16233925/26fad83b-1a25-4522-8544-cdd09c179d8e">
 
-## Figure S2: 
-##### A flowchart showing the integration of LGAR and the parameter-learning NN
-
+##### Figure S2: A flowchart showing the integration of LGAR and the parameter-learning NN
 the scheme used to generate CFE parameters from a CAMELS basin
-<img width="574" alt="image" src="https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/assets/52061672/a74a7729-df85-4123-add5-a2682a84cdd5">
+<img width="574" alt="image" src="https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/assets/52061672/015aa99c-de19-4ac3-bab4-d639802f6922">
 
-## Figure S3: 
-##### A visualization of the gradient chain from CFE-classic
-[Image to be added](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/blob/main/CFE_gradient_chain_demo.pdf)https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/blob/main/CFE_gradient_chain_demo.pdf
+##### Figure S3: A visualization of the gradient chain from CFE-classic
+See the PDF (https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/blob/main/CFE_gradient_chain_demo.pdf)https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/blob/main/CFE_gradient_chain_demo.pdf
