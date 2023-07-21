@@ -54,4 +54,4 @@ the scheme used to generate CFE parameters from a CAMELS basin
 
 ## Figure S2: 
 ##### A visualization of the gradient chain from CFE-classic
-Image to be added
+[Image to be added](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/blob/main/CFE_gradient_chain_demo.pdf)https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/blob/main/CFE_gradient_chain_demo.pdf
