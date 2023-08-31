@@ -3,7 +3,7 @@ Developing ngen modeling frameworks for improved streamflow prediction in arid a
 
 # Report 
 ### Official report
-- The main manuscript is in press.
+- The main manuscript is available [here, Chapter 2](https://www.cuahsi.org/uploads/library/doc/SI2023_Report.pdf)
 - Supplementary information to this report is available [here](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/blob/main/Supplemental_Information.md).
 - The long version of the manuscript is available [here](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity/blob/main/Project%20Manuscript_LongForm.pdf)
 
